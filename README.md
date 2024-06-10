@@ -4,20 +4,11 @@
 ## Description
 
 A study guide for course pre-work
+The goal is to provide a high quality study guide that I can use to help me success in this course. 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-  - The goal is to provide a high quality study guide that I can use to help me success in this course. 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-  - This project will be the foundation of my development as a programmer. 
-- What problem does it solve?
-- What did you learn?
-
-
+This project will be the foundation of my development as a programmer. 
 
 ## Installation
-
 
 N/A
 
